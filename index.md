@@ -22,9 +22,13 @@ My research interests are computer vision and representation learning. Recently,
 
 ## Awards
 Second Prize of "Intel Cup" Electronic Design Competition in 2018
+
 National Scholarship of Wuhan University 2018
+
 Second Prize of FPGA Innovative Design Invitational Contest in 2017
+
 Excellent students of Wuhan University 2015-2017
+
 
 
 
